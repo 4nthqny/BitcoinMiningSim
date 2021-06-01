@@ -1,2 +1,0 @@
-# BitcoinMiningSim
-Exploit
